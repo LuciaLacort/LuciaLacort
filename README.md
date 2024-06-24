@@ -2,17 +2,30 @@
 ![banner](https://github.com/LuciaLacort/LuciaLacort/assets/122998033/01bc0afb-6c0a-4a53-a8d7-b9542437b095)
 
 
-<!--
-**LuciaLacort/LuciaLacort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Leveraging my experience in the social education sector and luxury retail, I am now pursuing a career transition into web development. I am a resilient, curious, and persevering individual with strong decision-making and communication skills, able to effectively interface with different layers of the business. I have discovered a passion for APIs, SQL, and databases, and I enjoy displaying this data on a front-end created with React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+ HTML5 - CSS3 - SASS - JavaScript - React - NodeJS - ExpressJS - MySQL - Git - GitHub - Agile - Scrum
+
+ 
+## In case you are curious
+
+👩‍💻 I'm currently developing a JS + Python app
+
+🧠 I'm currently learning SQL 
+
+👯‍♀️ I'm looking to bring my wide experience to a new team
+
+🤔 I'm looking for help with finding a junior position
+
+💬 Ask me about anything you would like to know!
+
+⚡️ Fun fact: I started coding as a hobby and now my dream is to work as a developer
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?highlightedUpdateType=SHARED_BY_YOUR_NETWORK&highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7210937491875393536)
