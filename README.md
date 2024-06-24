@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![banner](https://github.com/LuciaLacort/LuciaLacort/assets/122998033/01bc0afb-6c0a-4a53-a8d7-b9542437b095)
+
 
 <!--
 **LuciaLacort/LuciaLacort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
