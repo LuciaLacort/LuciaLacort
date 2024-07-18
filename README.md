@@ -46,9 +46,9 @@ Junior full stack developer with previous experience in the social education sec
  
 ## In case you are curious
 
-👩‍💻 I'm currently developing a JS + Python app
+👩‍💻 I'm currently developing my own website
 
-🧠 I'm currently learning SQL 
+🧠 I'm currently learning SQL and AWS
 
 👯‍♀️ I'm looking to bring my wide experience to a new team
 
