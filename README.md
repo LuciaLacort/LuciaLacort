@@ -28,7 +28,6 @@ Junior full stack developer with previous experience in the social education sec
 - Link: https://github.com/LuciaLacort/modulo-3-evaluacion-final-LuciaLacort
 
 - Link repo Mysticards: https://github.com/LuciaLacort/promo-X-module-2-proyect-group4/tree/main
-- Link app Mysticards: https://raquelcb24.github.io/promo-X-module-2-proyect-group4/
 
 ### Back end: 
 
@@ -41,7 +40,7 @@ Junior full stack developer with previous experience in the social education sec
 #### App web
 
 - Link repo Books4You: https://github.com/LuciaLacort/project-promo-x-module-4-team-4
-- Link app Books4You (we're making it better): https://project-promo-x-module-4-team-4.onrender.com/
+🚧 IMPROVING - Link app Books4You (we're making it better): https://project-promo-x-module-4-team-4.onrender.com/
 
  
 ## In case you are curious
