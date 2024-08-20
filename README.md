@@ -23,7 +23,9 @@ Junior full stack developer with previous experience in the social education sec
 
 #### Interactive pages: 
 
- 🚧 IMPROVING - Link: https://github.com/LuciaLacort/modulo-2-evaluacion-final-LuciaLacort
+- Link: https://lucialacort.github.io/margaritas/
+ 
+ 🚧 IMPROVING CODE - Link repo margaritas: https://github.com/LuciaLacort/margaritas
 
 - Link: https://github.com/LuciaLacort/modulo-3-evaluacion-final-LuciaLacort
 
