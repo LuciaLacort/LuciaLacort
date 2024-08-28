@@ -1,5 +1,5 @@
 
-![banner](https://github.com/LuciaLacort/LuciaLacort/assets/122998033/01bc0afb-6c0a-4a53-a8d7-b9542437b095)
+
 <img width="1403" alt="Captura de pantalla 2024-08-28 a las 12 02 02" src="https://github.com/user-attachments/assets/575b6409-ebc2-47db-b97b-513bdf4f6d2d">
 
 
