@@ -6,61 +6,50 @@
 
 ## 🚀 About Me
 
-Junior full stack developer with previous experience in the social education sector and luxury retail, I am now pursuing a career transition into web development. I am a resilient, curious, and persevering individual with strong decision-making and communication skills, able to effectively interface with different layers of the business. I have discovered a passion for APIs, SQL, and databases, and I enjoy displaying this data on a front-end created with React.
+I’m a Digital Project Manager with a strong foundation in development and a passion for building impactful digital experiences. I lead projects end-to-end—coordinating clients, teams, and vendors, while managing timelines, budgets, and technical execution. I stay hands-on with code, supporting both current stack and legacy systems, and I adapt quickly to new tools and workflows. I take pride in maintaining an organized, efficient infrastructure and continuously learning to tackle new challenges with autonomy and accountability.
 
 
-## 🛠 Skills
- HTML5 - CSS3 - SASS - JavaScript - React - NodeJS - ExpressJS - MySQL - Git - GitHub - Agile - Scrum
+## 🛠️ Skills
 
- 
-## 💻 Projects
+### 🧑‍💻 Frontend & CMS
+#### - HTML5, CSS3, SCSS, JavaScript
+#### - React, Astro, Vite, Tailwind CSS, Livewire (basic)
+#### - WordPress + Elementor
+### 🛠️ Backend & Fullstack
+#### - Node.js, Express.js, Laravel, MySQL
+### ☁️ DevOps & Cloud
+#### - Docker (basic knowledge), GitHub Actions
+#### - AWS: S3, EC2, CloudFront, Route 53, Elastic Beanstalk (basic usage in real projects)
+#### - SSL Certificates, Domain & Project Migration
+### 🌐 Web3 & Blockchain
+#### - Familiar with Web3 technologies
+#### - Interest and basic understanding of Smart Contracts (Solidity)
+### 🧪 Development Tools
+#### - Git, GitHub
+#### - Postman (API testing), TablePlus (DB management)
+#### - Plesk (server & hosting panel)
+### 🎨 Design & Prototyping
+#### - Basic knowledge of Illustrator, Photoshop, Figma, Canva
+#### - Use of Responsively for testing responsive designs
+### 📊 Marketing & Analytics
+#### - Basic knowledge of Illustrator, Photoshop, Figma, Canva
+#### - Use of Responsively for testing responsive designs
+### 🧩 Project Management & Coordination
+#### - Agile, Scrum
+#### - Experience with Holded as CRM/ERP (internal use & client implementation)
+#### - Project coordination, time and budget management, cross-functional team communication, documentation
 
-### Front end:
-
-#### Information pages:
-
-- Link: https://github.com/LuciaLacort/project-promo-x-module-1-team-1 
-
-- Link: https://github.com/LuciaLacort/modulo-1-evaluacion-final-LuciaLacort
-
-#### Interactive pages: 
-
-- Link: https://lucialacort.github.io/margaritas/
- 
- 🚧 IMPROVING CODE - Link repo margaritas: https://github.com/LuciaLacort/margaritas
-
-- Link: https://github.com/LuciaLacort/modulo-3-evaluacion-final-LuciaLacort
-
-- Link repo Mysticards: https://github.com/LuciaLacort/promo-X-module-2-proyect-group4/tree/main
-
-### Back end: 
-
-#### API Rest
-
- 🚧 WORKING ON THE FRONT END - Link: https://github.com/LuciaLacort/modulo-4-evaluacion-final-bpw-LuciaLacort
-
-### Full stack: 
-
-#### App web
-
-- Link repo Books4You: https://github.com/LuciaLacort/project-promo-x-module-4-team-4
-  
-🚧 IMPROVING - Link app Books4You (we're making it better): https://project-promo-x-module-4-team-4.onrender.com/
-
- 
 ## In case you are curious
 
-👩‍💻 I'm currently developing my own website
+👩‍💻 Currently building the next version of my personal website and a social media clone
 
-🧠 I'm currently learning SQL and AWS
+💼 Working as a Digital Project Manager, learning and growing every day
 
-👯‍♀️ I'm looking to bring my wide experience to a new team
+👯‍♀️ Looking to join an ambitious, open-minded team where I can contribute and keep growing
 
-🤔 I'm looking for help with finding a junior position
+💬 Always happy to connect—feel free to ask me anything!
 
-💬 Ask me about anything you would like to know!
-
-⚡️ Fun fact: I started coding as a hobby and now my dream is to work as a developer
+⚡️ Fun fact: I started coding as a hobby, it became a dream, and now I get to live that dream
 
 
 ## 🔗 Links
