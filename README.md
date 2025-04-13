@@ -41,7 +41,7 @@ I’m a Digital Project Manager with a strong foundation in development and a pa
 
 ## In case you are curious
 
-👩‍💻 Currently building the next version of my personal website and a social media clone
+👩‍💻 In my free time, I’m working on the next version of my personal website and building a social media clone
 
 💼 Working as a Digital Project Manager, learning and growing every day
 
