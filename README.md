@@ -1,7 +1,6 @@
 
 
-<img width="1403" alt="Captura de pantalla 2024-08-28 a las 12 02 02" src="https://github.com/user-attachments/assets/575b6409-ebc2-47db-b97b-513bdf4f6d2d">
-
+<img width="1584" height="396" alt="banner-2025" src="https://github.com/user-attachments/assets/3e9a7b1f-e4f8-41d1-b254-8b4288f082e8" />
 
 
 ## 🚀 About Me
