@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="banner-2025" src="https://github.com/user-attachments/assets/0e774ba5-424f-443c-a727-0869f734df09" />
+<img width="1584" height="396" alt="banner-2025-github" src="https://github.com/user-attachments/assets/6453ee06-66e5-4e75-b6db-44e2967f6874" />
 
 ## 🚀 About Me
 
