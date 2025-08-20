@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a Digital Project Manager with a strong foundation in development and a passion for building impactful digital experiences. I lead projects end-to-end—coordinating clients, teams, and vendors, while managing timelines, budgets, and technical execution. I stay hands-on with code, supporting both current stack and legacy systems, and I adapt quickly to new tools and workflows. I take pride in maintaining an organized, efficient infrastructure and continuously learning to tackle new challenges with autonomy and accountability.
+I’m a Full Stack Developer and Project Manager with a strong foundation in development and a passion for building impactful digital experiences. I lead projects end-to-end—coordinating clients, teams, and vendors, while managing timelines, budgets, and technical execution. I stay hands-on with code, supporting both current stack and legacy systems, and I adapt quickly to new tools and workflows. I take pride in maintaining an organized, efficient infrastructure and continuously learning to tackle new challenges with autonomy and accountability.
 
 
 ## 🛠️ Skills
@@ -41,7 +41,7 @@ I’m a Digital Project Manager with a strong foundation in development and a pa
 
 ## In case you are curious
 
-👩‍💻 In my free time, I’m working on the next version of my personal website and building a social media clone
+👩‍💻 In my free time, I’m working on building a social media clone
 
 💼 Working as a Digital Project Manager, learning and growing every day
 
