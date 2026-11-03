@@ -17,7 +17,7 @@ My personal website, designed, built and deployed end-to-end on AWS:
 - ♿ **Bilingual (ES/EN), dark mode and accessible**: keyboard and screen-reader friendly, WCAG AA contrast.
 - ☁️ Hosted on **S3 + CloudFront + Route 53**, with security headers.
 
-_Source repos are private for now. Happy to walk you through them!_
+_Source repos are private for now.
 
 ## 🛠️ Tech stack
 
