@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Lucía
 
-**SFMC Developer at [Nateevo] · Full Stack Developer · AI & MCP enthusiast**
+**SFMC Developer at Nateevo · Full Stack Developer · AI & MCP enthusiast**
 
 I build marketing automation in **Salesforce Marketing Cloud** (journeys, CloudPages, dynamic emails, SSJS and AMPscript) and I’m a certified **Marketing Cloud Engagement Specialist**. Before that I was a Digital Projects Manager, leading projects end-to-end with clients, teams and vendors while staying hands-on with code.
 
